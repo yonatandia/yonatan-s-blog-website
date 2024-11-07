@@ -15,6 +15,7 @@
     "lodash": "^4.17.21",
     "mongoose": "^8.7.0",
     "morgan": "^1.10.0",
-    "node_js": "file:"
+    "node_js": "file:",
+    "nodemon": "^3.1.7"
   }
 }
